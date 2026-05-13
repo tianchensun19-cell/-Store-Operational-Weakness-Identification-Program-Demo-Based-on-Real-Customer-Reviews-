@@ -24,7 +24,7 @@ TARGET_YEAR = 2026
 TOPK_KEYWORDS = 8
 MIN_REQUIRED_ROWS = 5
 
-@st.dialog("欢迎使用 ReviewPulse CN Pro")
+@st.dialog("欢迎使用 📊门店运营短板分析产品Demo")
 def show_intro_dialog():
     st.markdown("### 这个产品能做什么")
     st.markdown("""
