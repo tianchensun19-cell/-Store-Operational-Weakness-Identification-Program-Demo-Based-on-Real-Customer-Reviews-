@@ -72,7 +72,7 @@
 
 ## 技术实现要点
 
-本 Demo 基于 Streamlit 构建，并部署为可直接访问的网页应用；官方支持通过 GitHub 仓库将 Streamlit 应用部署到 Community Cloud，并生成可分享链接。[web:397][web:398][web:459]
+本 Demo 基于 Streamlit 构建，并部署为可直接访问的网页应用；官方支持通过 GitHub 仓库将 Streamlit 应用部署到 Community Cloud，并生成可分享链接。
 
 在实现上，系统重点采用了以下策略：
 
